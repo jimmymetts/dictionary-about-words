@@ -1,0 +1,11 @@
+/Users/metts/WorkSpace-BackEnd/dictionary-about-words/bin/Debug/netcoreapp2.2/dictionary-about-words.deps.json
+/Users/metts/WorkSpace-BackEnd/dictionary-about-words/bin/Debug/netcoreapp2.2/dictionary-about-words.runtimeconfig.json
+/Users/metts/WorkSpace-BackEnd/dictionary-about-words/bin/Debug/netcoreapp2.2/dictionary-about-words.runtimeconfig.dev.json
+/Users/metts/WorkSpace-BackEnd/dictionary-about-words/bin/Debug/netcoreapp2.2/dictionary-about-words.dll
+/Users/metts/WorkSpace-BackEnd/dictionary-about-words/bin/Debug/netcoreapp2.2/dictionary-about-words.pdb
+/Users/metts/WorkSpace-BackEnd/dictionary-about-words/obj/Debug/netcoreapp2.2/dictionary-about-words.csprojAssemblyReference.cache
+/Users/metts/WorkSpace-BackEnd/dictionary-about-words/obj/Debug/netcoreapp2.2/dictionary-about-words.csproj.CoreCompileInputs.cache
+/Users/metts/WorkSpace-BackEnd/dictionary-about-words/obj/Debug/netcoreapp2.2/dictionary-about-words.AssemblyInfoInputs.cache
+/Users/metts/WorkSpace-BackEnd/dictionary-about-words/obj/Debug/netcoreapp2.2/dictionary-about-words.AssemblyInfo.cs
+/Users/metts/WorkSpace-BackEnd/dictionary-about-words/obj/Debug/netcoreapp2.2/dictionary-about-words.dll
+/Users/metts/WorkSpace-BackEnd/dictionary-about-words/obj/Debug/netcoreapp2.2/dictionary-about-words.pdb
